@@ -1,0 +1,21 @@
+.container{
+    margin: 50px 0;
+}
+
+.card{
+    margin: 0 2% !important;
+    background-color: white;
+}
+
+.activeCases{
+   border-bottom: 20px solid rgb(26, 140, 255);
+   
+  }
+
+.recovered{
+    border-bottom: 20px solid rgb(53, 212, 53);
+}
+.deaths{
+    border-bottom: 20px solid rgb(230, 0, 0);
+    
+}
